@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-ezak/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mr_Ezak)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mr-ezak)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits&)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 mr-ezak/mr-ezak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
